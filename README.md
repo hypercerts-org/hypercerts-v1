@@ -1,3 +1,11 @@
+# Deprecated / Archived
+
+This repository is part of an earlier iteration of hypercerts and is no longer actively maintained.
+
+Please do not use this repository for new integrations or development.
+
+This repo is kept for historical reference.
+
 # hypercerts [![License: Apache 2.0][license-badge]][license] [![Github Actions][gha-badge]][gha]
 
 [license]: https://opensource.org/license/apache-2-0/
